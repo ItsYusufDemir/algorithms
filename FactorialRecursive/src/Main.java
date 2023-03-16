@@ -1,7 +1,7 @@
 /* Author: @ItsYusufDemir
  * Date: 16.03.2023 15:03
  *
- * Description: Computing a factorial recursively. Time complexity is O(n).
+ * Description: Computing a factorial recursively. The time complexity is O(n).
  */
 
 import java.util.Scanner;
@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println("Enter the factorial: ");
         int n = input.nextInt();
-        
+
         System.out.println(n + "! is " + factorial(n));
 
     }
