@@ -2,7 +2,7 @@
  * Date: 16.03.2023 19:13
  *
  * Description: Sieve of Eratosthenes is an ancient algorithm to find prime numbers up to a limit number.
- * Time complexity: n * log(logn) (Fermat's method is O(n))
+ * Time complexity: n * log(logn) (Sieve of Atkin --> O(n))
  */
 
 import java.util.Scanner;
